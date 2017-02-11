@@ -1,0 +1,7 @@
+==MABS==
+
+*[http://git-media.wiki/Main_Page GitMediaWiki] - official MABS wiki
+
+*[https://www.semantic-mediawiki.org/wiki/SMWCon_Fall_2016/Multilateral,_asynchronous,_bidirectional_synchronisation_of_wikis SMWcon Frankfurt 2016 talk]
+
+*[http://cposc.org/sessions/mediawiki-remote-git-multilateral-asynchronous-bidirectional-synchronisation-wikis/ CPOSC Lancaster 2016 talk]
