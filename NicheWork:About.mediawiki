@@ -1,3 +1,14 @@
 ==<strong>  About NicheWork LLC </strong>==
-
+<br>
 NicheWork LLC was created in 1999 by Mark Hershberger as the business entity through which he works on contracts and projects.
+<br>
+<br>
+===<strong>  About Mark Hershberger</strong>===
+<br>
+Mark Hershberger is a developer, and consultant, also known as "hexmode" across various platforms. Additionally, he is the  former Bugmeister for Wikimedia;  a co-founder and member of MediaWiki Stakeholders; and a MediaWiki/PHP consultant since 2010.
+<br>
+<br>
+Mark has an extensive range of experience working to apply Free and Open Source software to real-world problems for organisations and corporations around the world. His technical specialities include: MediaWiki, PHP, VOIP, Asterisk, AJAX, MySQL, Apache, Perl
+<br>
+<br>
+Mark's personal blog can be found at [https://hexmode.com/ hexmode.com]
