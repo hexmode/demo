@@ -1,6 +1,4 @@
-<strong>MediaWiki has been installed.</strong>
-
-Consult the [//meta.wikimedia.org/wiki/Help:Contents User's Guide] for information on using the wiki software.
+<strong>Welcome to the NicheWork Wiki homepage!</strong>
 
 == Getting started ==
 * [//www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Configuration settings list]
