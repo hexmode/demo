@@ -1,0 +1,7 @@
+===<strong> MediaWiki Projects and Development </strong>===
+<br>
+*[https://www.semantic-mediawiki.org/wiki/SMWCon_Fall_2016/Multilateral,_asynchronous,_bidirectional_synchronisation_of_wikis Multilateral, asynchronous, bidirectional synchronisation of wikis] (MABS) 
+
+*[https://mwstake.org/mwstake/wiki/Main_Page MediaWiki Stakeholders] (MWS) - co-founder and current member
+
+*[https://wikiapiary.com/wiki/Main_Page WikiApiary] - originated by Jamie Thingelstad and Garrick van Buren, then handed off to MWS in 2016
