@@ -1,1 +1,3 @@
 ==<strong>Welcome to the NicheWork Wiki homepage!</strong>==
+
+[https://web.nichework.com/wiki/NicheWork:About About NicheWork]
