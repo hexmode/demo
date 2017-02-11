@@ -1,6 +1,6 @@
 ===<strong> MediaWiki Projects and Development </strong>===
 <br>
-*[https://www.semantic-mediawiki.org/wiki/SMWCon_Fall_2016/Multilateral,_asynchronous,_bidirectional_synchronisation_of_wikis MABS] (Multilateral, asynchronous, bidirectional synchronisation of wikis) 
+*[[MABS]] (Multilateral, asynchronous, bidirectional synchronisation of wikis) 
 
 *[https://mwstake.org/mwstake/wiki/Main_Page MediaWiki Stakeholders] (MWS) - co-founder and current member
 
