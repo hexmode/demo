@@ -11,4 +11,7 @@ Mark Hershberger is a developer, and consultant, also known as "hexmode" across 
 Mark has an extensive range of experience working to apply Free and Open Source software to real-world problems for organisations and corporations around the world. His technical specialities include: MediaWiki, PHP, VOIP, Asterisk, AJAX, MySQL, Apache, Perl
 <br>
 <br>
-Mark's personal blog can be found at [https://hexmode.com/ hexmode.com]
+He can be reached via his business email at mah@nichework.com. His personal blog is [https://hexmode.com/ hexmode.com]
+<br>
+<br>
+[[Current Projects]]
