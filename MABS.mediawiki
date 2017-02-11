@@ -1,5 +1,9 @@
 ==MABS==
 
+MABS stands for the multilateral, asynchronous, bidirectional synchronisation of wikis, which is useful to anyone who runs MediaWiki or hosts wikis for clients. Mark built on the work of Ensimag students in order to provide a way to keep several wikis synchronized.
+
+You can find the github page, run by Ensimag students and supervised by Matthieu Moy, [https://github.com/Git-Mediawiki/Git-Mediawiki/wiki here].
+
 *[http://git-media.wiki/Main_Page GitMediaWiki] - official MABS wiki
 
 *[https://www.semantic-mediawiki.org/wiki/SMWCon_Fall_2016/Multilateral,_asynchronous,_bidirectional_synchronisation_of_wikis SMWcon Frankfurt 2016 talk]
