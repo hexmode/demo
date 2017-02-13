@@ -11,7 +11,8 @@ Mark Hershberger, aka "hexmode", is a developer and consultant. He has an extens
 <br>
 His technical specialities include: MediaWiki, PHP, VOIP, Asterisk, AJAX, MySQL, Apache, Perl, etc.. Additionally, he is the  former Bugmeister for Wikimedia;  a co-founder and member of MediaWiki Stakeholders; and a MediaWiki/PHP consultant since 2010. <br>
 <br>
-He can be reached via his business email at mah@nichework.com. The most recent copy of his resume can be found at [http://mah.everybody.org/resume.html mah.everybody.org/resume.html]. His personal blog is [https://hexmode.com/ hexmode.com]
+He can be reached via his business email at mah@nichework.com. The most recent copy of his resume can be found at [http://mah.everybody.org/resume.html mah.everybody.org/resume.html], or below. His personal blog is [https://hexmode.com/ hexmode.com]
 <br>
 <br>
 [[MediaWiki Projects and Development]]
+[[Resume]]
