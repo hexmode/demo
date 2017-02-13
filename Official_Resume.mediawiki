@@ -83,23 +83,22 @@
     <em>Web Services</em>
     : XML-RPC, REST, JSON-RPC (BloggerAPI, MetaWeblogAPI, Bugzilla, MediaWiki clients).
 </p>
+<p>
 <h1>
         Developer/Consultant  Employment History
         <br/>
         <br/>
 </h1>
-<h3>
 Nichework LLC
     <br/>
     1999-Present
-</h3>
 <p>
     Nichework LLC is the business entity that I use for any contracts or projects.
 </p>
 <br/>
 <p>
 <h3>
-    Contracts
+    Projects
 </h3>
 </p>
 <ul>
@@ -138,11 +137,6 @@ Consulting with WikiHow as they upgrade their MediaWiki installation ([http://ww
         </p>
     </li>
 </ul>
-<p>
-<h3>
-    Projects
-</h3>
-</p>
 <ul>
     <li>
         <p>
@@ -163,11 +157,6 @@ Consulting with WikiHow as they upgrade their MediaWiki installation ([http://ww
         </p>
     </li>
 </ul>
-<p>
-<h3>
-Positions
-</h3>
-</p>
 <p>
     <strong>
         PHP Developer
@@ -191,9 +180,7 @@ Positions
     Foundation more rapidly resolved issues.
 </p>
 <p>
-<h3>    
 Achievements
-</h3>
 </p>
 <ul>
     <li>
@@ -241,10 +228,7 @@ projects, we were able to find and solve some very significant problems with [ht
 </p>
 <p>
     I worked on multiple open-source software projects, including travelling to client countries (in my case, Rwanda and Uganda) to help IT workers there
-    implement Open Source solutions.
-</p>
-<p>
-    Projects:
+    implement Open Source solutions:
 </p>
 <ul>
     <li>
