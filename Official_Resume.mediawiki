@@ -1,0 +1,418 @@
+<h1>
+    Contact Information
+</h1>
+<p>
+    739 Main St.
+    <br/>
+    Akron, PA 17501
+    <br/>
+    Phone: 717-271-1084
+    <br/>
+    Email: mah@nichework.org
+    <br/>
+    URL: [https://hexmode.com/ hexmode.com]
+</p>
+<br/>
+<h1>
+    Technical Skills
+</h1>
+<strong>
+    Front End
+</strong>
+<p>
+    HTML5, jQuery, AJAX, JavaScript, XHTML.
+</p>
+<strong>
+    PHP
+</strong>
+<p>
+    PHP5, APC, XDebug, PHPUnit, Command Line PHP.
+    <br/>
+    <em>Various PHP Frameworks</em>
+    : MediaWiki, Symfony, Drupal
+</p>
+<strong>
+    Perl
+</strong>
+<p>
+    <em>CPAN Author</em>
+    : Image::Grab, IO::BLOB::Pg, Filesys::Virtual, POE::Component::Server::XMLRPC, Software::Packager::Svr4.
+    <br/>
+    <em>Knowledge</em>
+    : mod_perl/Apache, DBI, POE.
+</p>
+<strong>
+    Open Source Contributor
+</strong>
+<p>
+    <em>Linux Distributions</em>
+    : Contributing PHP packages (MDB2, hardy's XDebug) to [http://bit.ly/17P5EU Debian] and Ubuntu.
+    <br/>
+    <em>Emacs</em>
+    : Contributor to Emacs with copyright assignment papers on file with the FSF.
+    <br/>
+    <em>MediaWiki</em>
+    : Contributing to MediaWiki, managing public releases and planning long-term maintenance for MW 1.19.
+</p>
+<strong>
+    Mail Administration
+</strong>
+<p>
+    <em>Mail and Calendar Suite</em>
+    : Zimbra
+    <br/>
+    <em>Mail Transfer Agents</em>
+    : postfix, exim, sendmail, qmail.
+    <br/>
+    <em>Spam Filtering</em>
+    : SpamAssassin, Amavis.
+    <br/>
+    <em>Virus Scanning</em>
+    : ClamAV.
+</p>
+<strong>
+    Protocols
+</strong>
+<p>
+    <em>LDAP</em>
+    : OpenLDAP.
+    <br/>
+    <em>SQL</em>
+    : MySQL, SQLite, PostgreSQL.
+    <br/>
+    <em>Web Services</em>
+    : XML-RPC, REST, JSON-RPC (BloggerAPI, MetaWeblogAPI, Bugzilla, MediaWiki clients).
+</p>
+<h1>
+    Employment History
+</h1>
+<br/>
+<h2>
+        Developer/Consultant
+        <br/>
+        <br/>
+</h2>
+<h3>
+Nichework LLC
+    <br/>
+    1999-Present
+</h3>
+<p>
+    Nichework LLC is the business entity that I use for any contracts or projects.
+</p>
+<br/>
+<p>
+<h3>
+    Contracts:
+</h3>
+</p>
+<ul>
+    <li>
+        <p align="LEFT">
+            <strong>MediaWiki Release Management:</strong>
+          [https://blog.wikimedia.org/2013/07/26/future-third-party-releases-mediawiki/ Formed a partnership with 'Hallo Welt' to manage MediaWiki releases on a contract basis]
+            for Wikimedia.
+        </p>
+    </li>
+    <li>
+        <p>
+            <strong>Upgrading Sherwin Willliams internal MediaWiki:</strong>
+            *Upgraded and customized their MediaWiki system
+            <br/>
+             *Implemented a way to [https://bugzilla.wikimedia.org/38110 separate MySQL schema changes] from the regular
+            upgrade process for MediaWiki so that they could be handled by Sherwin Williams' DBA. This code is now in MediaWiki (link needed)
+    </li>
+    <li>
+        <p>
+            <strong>WikiPathways customizations for Gladstone Institute: </strong>
+           Extended their highly customized implementation at [http://WikiPathways.org/ WikiPathways.org], while bringing them
+            more in line with MediaWiki best practices
+        </p>
+    </li>
+    <li>
+        <p>
+            <strong>WikiHow upgrade:</strong>
+Consulting with WikiHow as they upgrade their MediaWiki installation ([http://www.wikihow.com/Special:Version with extensive customizations]) to the latest version of MediaWiki.
+        </p>
+    </li>
+    <li>
+        <p>
+            <strong>New Orleans Jazzfest spam filtering:</strong>
+            Maintenance on New Orleans Jazzfest's anti-spam relay
+        </p>
+    </li>
+</ul>
+<p>
+<h3>
+    Projects:
+</h3>
+</p>
+<ul>
+    <li>
+        <p>
+            <strong>XML Namespace handling for Emacs</strong>
+            : Provided initial implementation for XML namespaces in Emacs
+        </p>
+    </li>
+    <li>
+        <p>
+            [http://bit.ly/2XUkoC weblogger.el]
+            : Developed a weblogging client for Emacs that supports XML-RPC APIs
+        </p>
+    </li>
+    <li>
+        <p>
+            [http://bit.ly/3gc7Ei xml-rpc.el]
+            : Assumed maintainer-ship of the XML-RPC library for Emacs.
+        </p>
+    </li>
+</ul>
+<p>
+<h3>
+Positions
+</h3>
+</p>
+<p>
+    <strong>
+        PHP Developer
+        <br/>
+        Comcast
+    </strong>
+</p>
+<p>
+    Worked with the XPlat group to develop a tool written in the [http://symfony.com/ Symfony framework] that will ease
+    troubleshooting for Tier 2+ helpdesk
+</p>
+<p>
+    <strong>
+        Contract Developer/Bugmeister
+        <br/>
+    </strong>
+    Wikimedia Foundation
+</p>
+<p>
+    Organized public bug reporting for the Wikimedia projects; held regular bug triages; and worked to build community relationships so that the
+    Foundation more rapidly resolved issues.
+</p>
+<p>
+    Achievements:
+</p>
+<ul>
+    <li>
+        <p>
+            <strong>Community liaison for </strong>
+            [https://www.mediawiki.org/wiki/UploadWizard Upload Wizard]
+            : Upload Wizard was created as way to make it easy for users to contribute photographs to Wikimedia Commons. Commons admins seemed to look askance
+            at this project until I held a triage in which they were able to discuss their issues directly with the WMF developer charged with its development.
+            The triage didn't solve all the problems, but it opened up communication so that they felt like their concerns were heard.
+        </p>
+    </li>
+    <li>
+        <p>
+            <strong>Coordination between paid and volunteer developers</strong>
+            : As the result of just one triage on IRC with [[http://pediapress.com/ PediaPress]] developers and volunteers from wikibooks
+projects, I was able to arrange cooperation between the developers of the [https://www.mediawiki.org/wiki/Extension:Collection Collection Extension]which allows Wikipedia to provide PDFs or printed
+            copies of collections of articles and the [https://www.mediawiki.org/wiki/Extension:BookManager BookManager Extension] which the
+            wikibooks volunteers created to manage the web presentation of books. They've begun to work on integrating BookManager into the next version of the
+            Collection extension.
+        </p>
+    </li>
+    <li>
+        <p>
+            <strong>Beta Wikimedia deployment</strong>
+            : Using the newly available [https://labsconsole.wikimedia.org/wiki/Main_Page WikiMedia Labs] environment, I was able to work
+            with some motivated community members and deploy MediaWiki 1.19 in a production-like environment. Working with admins and editors from different
+projects, we were able to find and solve some very significant problems with [https://www.mediawiki.org/wiki/ResourceLoader Resource Loader] — MediaWiki's method allowing user's to extend the site with
+            JavaScript gadgets — before they affected too many people.
+        </p>
+    </li>
+    <li>
+        <p>
+            <strong>Production Deployment problem triage</strong>
+            : I was able to build valuable relationships and find people to help in future roll-outs as well as get problems solved before they hit larger
+            projects
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>
+        Open Source Developer
+        <br/>
+    </strong>
+    IntraHealth International, Inc.
+</p>
+<p>
+    I worked on multiple open-source software projects, including travelling to client countries (in my case, Rwanda and Uganda) to help IT workers there
+    implement Open Source solutions.
+</p>
+<p>
+    Projects:
+</p>
+<ul>
+    <li>
+        <p>
+           [http://open.intrahealth.org/ open.intrahealth.org]
+            : Set up MediaWiki as a repository for sharing information with our partners and clients.
+        </p>
+    </li>
+    <li>
+        <p>
+            [https://launchpad.net/ihris-suite/ iHRIS Suite]
+: My efforts were focused on integration with Linux distributions (Debian, Ubuntu) and adapting the PHP-based software suite to the [[http://www.wampserver.com/en/ WAMP]] platform so that it could run standalone on a Windows Desktop.
+        </p>
+    </li>
+    <li>
+        <p>
+            Human Resources for Health (HRH) Global Resource Center upgrade
+: Upgraded the HRH GRC site maintained out by the [http://www.usaid.gov/ USAID]'s [http://www.capacityproject.org/ Capacity Project].
+        </p>
+    </li>
+    <li>
+        <p>
+            <strong>Knowledge Management for Uganda Ministry of Health (MoH)</strong>
+: Integrated Joomla and Knowledgetree to provide a complete KM solution for the MoH. When we presented the [http://library.health.go.ug/jla/ results] to the MoH librarians, they were visibly excited.
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>
+        SysAdmin/Web Developer
+        <br/>
+    </strong>
+    Team Gigabyte
+</p>
+<p>
+    Helped implement front-end enhancements using AJAX and PHP. Later, took on the management of the production, integration systems, the autobuild system, the
+    custom Ubuntu package repository for our internally produced packages, backups, and system monitoring via a combination of Cacti, Swatch and Nagios.
+</p>
+<p>
+    When we switched our front-end to MediaWiki, I wrote custom handlers to produce fast geographical lookups using PHP. Migrated our custom package repository
+    to Amazon’s S3.
+</p>
+<p>
+    <strong>
+        SysAdmin/Web Developer
+        <br/>
+    </strong>
+    Layover, Inc.
+</p>
+<p>
+    Managed servers and helped maintain current base of legacy code. Planned and began implementing a move from custom template system with a mix of custom CGI
+    code to Catalyst and Template Toolkit as part of a complete redesign of the site. My initial decision to use Catalyst on mod_perl has been implemented
+    site-wide.
+</p>
+<p>
+    <strong>
+        Tech
+        <br/>
+    </strong>
+    Clark for President, Inc.
+</p>
+<p>
+    During my time at the campaign, I was the primary system administrator and managed the Linux-based network at the Headquarters as well the Linux servers
+    co-located in Little Rock and New York City.
+</p>
+<p>
+    Implemented virus and spam scanning using open-source tools for all @clark04.com email addresses. This alone saved untold hours in staffers' time at little
+    cost to the campaign.
+</p>
+<p>
+    Saved the campaign $50,000 on a contract by benchmarking a vendor's field outreach tool which purpose was to aid grassroots volunteers in writing letters
+    and making calls to potential voters. My measurements showed that the tool became unusable with even a small number of users. The contract was canceled.
+</p>
+<p>
+    <strong>
+        System Administrator
+        <br/>
+    </strong>
+    Universal Personnel (New Orleans, Louisiana)
+</p>
+<p>
+    Responsible for maintaining: internal and external DNS resolution for McDermott at multiple sites; external SMTP gateway router; internal and external FTP
+    servers; HTTP Proxy; SOCKS proxy. Applying security upgrades for supported applications. Reviewing and implementing Auditor's security recommendations.
+    (This contract was previously owned by Volt Technical Services.)
+</p>
+<p>
+    Projects:
+</p>
+<ul>
+    <li>
+        <p>
+            Developed and Deployed a spam and virus scanning system using mimedefang, Trend Micro's virus engine and SpamAssassin.
+        </p>
+    </li>
+    <li>
+        <p>
+            Developed [http://mah.everybody.org/docs/bootable-cdrom-for-solaris bootable CDROM] to deploy UNIX systems locally or at remote
+            sites in a uniform fashion without using a JumpStart server.
+        </p>
+    </li>
+    <li>
+        <p>
+            Developed a means of packaging Solaris SVR4 directory-format packages without the use of Solaris tools (e.g. without pkgmk).
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>
+        JCALS System Administrator
+        <br/>
+    </strong>
+    U.S. Air Force Reserve
+</p>
+<p>
+    Maintained documentation storage system for Air Force Reserve base.
+</p>
+<p>
+    Also, performed miscellaneous System Administration duties including working with the FBI and Navy Security to track down a hacker.
+</p>
+<p>
+    Projects:
+</p>
+<ul>
+    <li>
+        <p>
+            <strong>Form 1003 submission</strong>
+            : Developed an automated system for Standard Mortgage that would take input from a web-page. The system used that information to submit a prepared
+            Form 1003 to Fannie Mae for a lending decision. The decision would then be given back to the user. Implemented entirely with Apache and Perl using
+            a custom Perl module.
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>
+        System Administrator
+        <br/>
+    </strong>
+    Baily Link, Inc.
+</p>
+<p>
+    Registered domain names. Created and implemented policies for a separate development and production servers; Created and implemented policies for a version
+    control system for internally developed software.
+</p>
+<p>
+    <strong>
+        System Administrator
+        <br/>
+    </strong>
+    Department of Interior (Minerals Management Service)
+</p>
+<p>
+    Maintained the DNS; Developed an interim web-based solution for plotting and displaying over 200GB of well-logs. Implemented Cfengine to ease maintenance
+    of Solaris workstations. Installed and maintained the proxy servers for the Gulf and California locations.
+</p>
+<p>
+    System Administrator for over 40 Sun Solaris workstations, three servers and several Microsoft Windows 95 Personal Computers. Also managed student workers.
+</p>
+<p>
+    <strong>Education</strong>
+</p>
+<ul>
+    <li>
+        <p>
+            BS in Computer Science
+            <br/>
+            University of New Orleans
+        </p>
+    </li>
+</ul>
