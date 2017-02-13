@@ -84,14 +84,10 @@
     : XML-RPC, REST, JSON-RPC (BloggerAPI, MetaWeblogAPI, Bugzilla, MediaWiki clients).
 </p>
 <h1>
-    Employment History
+        Developer/Consultant  Employment History
+        <br/>
+        <br/>
 </h1>
-<br/>
-<h2>
-        Developer/Consultant
-        <br/>
-        <br/>
-</h2>
 <h3>
 Nichework LLC
     <br/>
@@ -103,7 +99,7 @@ Nichework LLC
 <br/>
 <p>
 <h3>
-    Contracts:
+    Contracts
 </h3>
 </p>
 <ul>
@@ -144,7 +140,7 @@ Consulting with WikiHow as they upgrade their MediaWiki installation ([http://ww
 </ul>
 <p>
 <h3>
-    Projects:
+    Projects
 </h3>
 </p>
 <ul>
@@ -195,7 +191,9 @@ Positions
     Foundation more rapidly resolved issues.
 </p>
 <p>
-    Achievements:
+<h3>    
+Achievements
+</h3>
 </p>
 <ul>
     <li>
