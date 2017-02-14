@@ -167,26 +167,22 @@ Achievements
     <li>
         <p>
             Community liaison for
-            [https://www.mediawiki.org/wiki/UploadWizard UploadWizard]
-            : Opened lines of communications between Commons admins and the WMF developer charged with the development of UploadWizard
+            [https://www.mediawiki.org/wiki/UploadWizard UploadWizard]: Opened lines of communications between Commons admins and the WMF developer charged with the development of UploadWizard
         </p>
     </li>
     <li>
         <p>
-            Coordination between paid and volunteer developers
-            : Arranged cooperation between the developers of the [https://www.mediawiki.org/wiki/Extension:Collection Collection Extension] and  the [https://www.mediawiki.org/wiki/Extension:BookManager BookManager Extension] integrate BookManager into the Collection extension.
+            Coordination between paid and volunteer developers: Arranged cooperation between the developers of the [https://www.mediawiki.org/wiki/Extension:Collection Collection Extension] and  the [https://www.mediawiki.org/wiki/Extension:BookManager BookManager Extension] integrate BookManager into the Collection extension.
         </p>
     </li>
     <li>
         <p>
-            Beta Wikimedia deployment
-            : Used [https://labsconsole.wikimedia.org/wiki/Main_Page WikiMedia Labs] environment to work with community members, admins and editors from different projects to find and solve significant issues with [https://www.mediawiki.org/wiki/ResourceLoader Resource Loader] — MediaWiki's method to allow users to extend the site with JavaScript gadgets.
+            Beta Wikimedia deployment: Used [https://labsconsole.wikimedia.org/wiki/Main_Page WikiMedia Labs] environment to work with community members, admins and editors from different projects to find and solve significant issues with [https://www.mediawiki.org/wiki/ResourceLoader Resource Loader] — MediaWiki's method to allow users to extend the site with JavaScript gadgets.
         </p>
     </li>
     <li>
         <p>
-            Production Deployment problem triage
-            : I was able to build valuable relationships and find people to help in future roll-outs as well as get problems solved before they hit larger
+            Production Deployment problem triage: I was able to build valuable relationships and find people to help in future roll-outs as well as get problems solved before they hit larger
             projects
         </p>
     </li>
@@ -205,26 +201,22 @@ Achievements
 <ul>
     <li>
         <p>
-           [http://open.intrahealth.org/ open.intrahealth.org]
-            : Set up MediaWiki as a repository for sharing information with our partners and clients.
+           [http://open.intrahealth.org/ open.intrahealth.org]: Set up MediaWiki as a repository for sharing information with our partners and clients.
         </p>
     </li>
     <li>
         <p>
-            [https://launchpad.net/ihris-suite/ iHRIS Suite]
-: Focused on integration with Linux distributions (Debian, Ubuntu) and adapting the PHP-based software suite to the [[http://www.wampserver.com/en/ WAMP]] platform to run standalone on a Windows Desktop.
+            [https://launchpad.net/ihris-suite/ iHRIS Suite]: Focused on integration with Linux distributions (Debian, Ubuntu) and adapting the PHP-based software suite to the [[http://www.wampserver.com/en/ WAMP]] platform to run standalone on a Windows Desktop.
         </p>
     </li>
     <li>
         <p>
-            Human Resources for Health (HRH) Global Resource Center upgrade
-: Upgraded the HRH GRC site maintained out by the [http://www.usaid.gov/ USAID]'s [http://www.capacityproject.org/ Capacity Project].
+            Human Resources for Health (HRH) Global Resource Center upgrade: Upgraded the HRH GRC site maintained out by the [http://www.usaid.gov/ USAID]'s [http://www.capacityproject.org/ Capacity Project].
         </p>
     </li>
     <li>
         <p>
-            Knowledge Management for Uganda Ministry of Health (MoH)
-: Integrated Joomla and Knowledgetree to provide a [http://library.health.go.ug/jla/ complete KM solution] for the MoH.
+            Knowledge Management for Uganda Ministry of Health (MoH): Integrated Joomla and Knowledgetree to provide a [http://library.health.go.ug/jla/ complete KM solution] for the MoH.
         </p>
     </li>
 </ul>
@@ -266,8 +258,7 @@ General Projects
     </li>
     <li>
         <p>
-            [http://bit.ly/3gc7Ei xml-rpc.el]
-            : Assumed maintainer-ship of the XML-RPC library for Emacs.
+            [http://bit.ly/3gc7Ei xml-rpc.el]: Assumed maintainer-ship of the XML-RPC library for Emacs.
         </p>
     </li>
 </ul>
@@ -349,8 +340,7 @@ General Projects
     Performed additional SysAdmin duties including working with the FBI and Navy Security to track down a hacker.
 </p>
         <p>
-            <strong>Form 1003 submission</strong>
-            : Developed an automated system for Standard Mortgage that would take input from a web-page to submit a prepared Form 1003 to Fannie Mae for a lending decision. The decision would then be given back to the user. Implemented entirely with Apache and Perl using a custom Perl module.
+            <strong>Form 1003 submission</strong>: Developed an automated system for Standard Mortgage that would take input from a web-page to submit a prepared Form 1003 to Fannie Mae for a lending decision. The decision would then be given back to the user. Implemented entirely with Apache and Perl using a custom Perl module.
         </p>
 <p>
     <strong>
