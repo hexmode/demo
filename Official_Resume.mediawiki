@@ -112,7 +112,7 @@
 
 <p>
 <h2>
-    Wiki-related Projects
+   MediaWiki-related Projects
 </h2>
 </p>
 <ul>
@@ -146,26 +146,7 @@ Consulting with WikiHow as they upgrade their MediaWiki installation ([http://ww
         </p>
     </li>
 </ul>
-<ul>
-    <li>
-        <p>
-            <strong>XML Namespace handling for Emacs</strong>
-            : Provided initial implementation for XML namespaces in Emacs
-        </p>
-    </li>
-    <li>
-        <p>
-            [http://bit.ly/2XUkoC weblogger.el]
-            : Developed a weblogging client for Emacs that supports XML-RPC APIs
-        </p>
-    </li>
-    <li>
-        <p>
-            [http://bit.ly/3gc7Ei xml-rpc.el]
-            : Assumed maintainer-ship of the XML-RPC library for Emacs.
-        </p>
-    </li>
-</ul>
+
 <p>
     <strong>
         Contract Developer/Bugmeister
@@ -275,6 +256,26 @@ General Projects
             Maintenance on New Orleans Jazzfest's anti-spam relay
         </p>
     </li>
+<ul>
+    <li>
+        <p>
+            <strong>XML Namespace handling for Emacs</strong>
+            : Provided initial implementation for XML namespaces in Emacs
+        </p>
+    </li>
+    <li>
+        <p>
+            [http://bit.ly/2XUkoC weblogger.el]
+            : Developed a weblogging client for Emacs that supports XML-RPC APIs
+        </p>
+    </li>
+    <li>
+        <p>
+            [http://bit.ly/3gc7Ei xml-rpc.el]
+            : Assumed maintainer-ship of the XML-RPC library for Emacs.
+        </p>
+    </li>
+</ul>
 <p>
     <strong>
         PHP Developer
