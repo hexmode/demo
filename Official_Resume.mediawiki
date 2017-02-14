@@ -115,38 +115,34 @@
    MediaWiki-related Projects
 </h2>
 </p>
-<ul>
-    <li>
+
+    
         <p align="LEFT">
             <strong>MediaWiki Release Management:</strong>
           [https://blog.wikimedia.org/2013/07/26/future-third-party-releases-mediawiki/ Formed a partnership with 'Hallo Welt' to manage MediaWiki releases on a contract basis]
             for Wikimedia.
         </p>
-    </li>
+    
     <p>
-        <li>
+        
             <strong>Upgrading Sherwin Willliams internal MediaWiki:</strong>
             Upgraded and customized their MediaWiki system
             <br/>
             Implemented a way to [https://bugzilla.wikimedia.org/38110 separate MySQL schema changes] from the regular
             upgrade process for MediaWiki so that they could be handled by Sherwin Williams' DBA. This code is now in MediaWiki (link needed)
-    </li>
+    
 </p>
-    <li>
+    
         <p>
             <strong>WikiPathways customizations for Gladstone Institute: </strong>
            Extended their highly customized implementation at [http://WikiPathways.org/ WikiPathways.org], while bringing them
             more in line with MediaWiki best practices
         </p>
-    </li>
-    <li>
         <p>
             <strong>WikiHow upgrade:</strong>
 Consulting with WikiHow as they upgrade their MediaWiki installation ([http://www.wikihow.com/Special:Version with extensive customizations]) to the latest version of MediaWiki.
         </p>
-    </li>
-</ul>
-
+    
 <p>
     <strong>
         Contract Developer/Bugmeister
