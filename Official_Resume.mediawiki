@@ -90,11 +90,8 @@
         <br/>
 </h1>
 Nichework LLC
-    <br/>
-    1999-Present
-<p>
-    Nichework LLC is the business entity that I use for any contracts or projects.
-</p>
+   </p>
+    Nichework LLC is the business entity that I have used for any contracts or projects since 1999.
 <br/>
 <p>
 <h3>
@@ -109,14 +106,15 @@ Nichework LLC
             for Wikimedia.
         </p>
     </li>
-    <li>
-        <p>
+    <p>
+        <li>
             <strong>Upgrading Sherwin Willliams internal MediaWiki:</strong>
-            *Upgraded and customized their MediaWiki system
+            Upgraded and customized their MediaWiki system
             <br/>
-             *Implemented a way to [https://bugzilla.wikimedia.org/38110 separate MySQL schema changes] from the regular
+            Implemented a way to [https://bugzilla.wikimedia.org/38110 separate MySQL schema changes] from the regular
             upgrade process for MediaWiki so that they could be handled by Sherwin Williams' DBA. This code is now in MediaWiki (link needed)
     </li>
+</p>
     <li>
         <p>
             <strong>WikiPathways customizations for Gladstone Institute: </strong>
@@ -180,40 +178,33 @@ Consulting with WikiHow as they upgrade their MediaWiki installation ([http://ww
     Foundation more rapidly resolved issues.
 </p>
 <p>
+<strong>
 Achievements
+</strong>
 </p>
 <ul>
     <li>
         <p>
-            <strong>Community liaison for </strong>
-            [https://www.mediawiki.org/wiki/UploadWizard Upload Wizard]
-            : Upload Wizard was created as way to make it easy for users to contribute photographs to Wikimedia Commons. Commons admins seemed to look askance
-            at this project until I held a triage in which they were able to discuss their issues directly with the WMF developer charged with its development.
-            The triage didn't solve all the problems, but it opened up communication so that they felt like their concerns were heard.
+            Community liaison for
+            [https://www.mediawiki.org/wiki/UploadWizard UploadWizard]
+            : Opened lines of communications between Commons admins and the WMF developer charged with the development of UploadWizard
         </p>
     </li>
     <li>
         <p>
-            <strong>Coordination between paid and volunteer developers</strong>
-            : As the result of just one triage on IRC with [[http://pediapress.com/ PediaPress]] developers and volunteers from wikibooks
-projects, I was able to arrange cooperation between the developers of the [https://www.mediawiki.org/wiki/Extension:Collection Collection Extension]which allows Wikipedia to provide PDFs or printed
-            copies of collections of articles and the [https://www.mediawiki.org/wiki/Extension:BookManager BookManager Extension] which the
-            wikibooks volunteers created to manage the web presentation of books. They've begun to work on integrating BookManager into the next version of the
-            Collection extension.
+            Coordination between paid and volunteer developers
+            : Arranged cooperation between the developers of the [https://www.mediawiki.org/wiki/Extension:Collection Collection Extension] and  the [https://www.mediawiki.org/wiki/Extension:BookManager BookManager Extension] integrate BookManager into the Collection extension.
         </p>
     </li>
     <li>
         <p>
-            <strong>Beta Wikimedia deployment</strong>
-            : Using the newly available [https://labsconsole.wikimedia.org/wiki/Main_Page WikiMedia Labs] environment, I was able to work
-            with some motivated community members and deploy MediaWiki 1.19 in a production-like environment. Working with admins and editors from different
-projects, we were able to find and solve some very significant problems with [https://www.mediawiki.org/wiki/ResourceLoader Resource Loader] — MediaWiki's method allowing user's to extend the site with
-            JavaScript gadgets — before they affected too many people.
+            Beta Wikimedia deployment
+            : Used [https://labsconsole.wikimedia.org/wiki/Main_Page WikiMedia Labs] environment to work with community members, admins and editors from different projects to find and solve significant issues with [https://www.mediawiki.org/wiki/ResourceLoader Resource Loader] — MediaWiki's method to allow users to extend the site with JavaScript gadgets.
         </p>
     </li>
     <li>
         <p>
-            <strong>Production Deployment problem triage</strong>
+            Production Deployment problem triage
             : I was able to build valuable relationships and find people to help in future roll-outs as well as get problems solved before they hit larger
             projects
         </p>
@@ -227,7 +218,7 @@ projects, we were able to find and solve some very significant problems with [ht
     IntraHealth International, Inc.
 </p>
 <p>
-    I worked on multiple open-source software projects, including travelling to client countries (in my case, Rwanda and Uganda) to help IT workers there
+    Worked on multiple open-source software projects, including travelling to client countries (in my case, Rwanda and Uganda) to help IT workers there
     implement Open Source solutions:
 </p>
 <ul>
@@ -240,7 +231,7 @@ projects, we were able to find and solve some very significant problems with [ht
     <li>
         <p>
             [https://launchpad.net/ihris-suite/ iHRIS Suite]
-: My efforts were focused on integration with Linux distributions (Debian, Ubuntu) and adapting the PHP-based software suite to the [[http://www.wampserver.com/en/ WAMP]] platform so that it could run standalone on a Windows Desktop.
+: Focused on integration with Linux distributions (Debian, Ubuntu) and adapting the PHP-based software suite to the [[http://www.wampserver.com/en/ WAMP]] platform to run standalone on a Windows Desktop.
         </p>
     </li>
     <li>
@@ -252,7 +243,7 @@ projects, we were able to find and solve some very significant problems with [ht
     <li>
         <p>
             <strong>Knowledge Management for Uganda Ministry of Health (MoH)</strong>
-: Integrated Joomla and Knowledgetree to provide a complete KM solution for the MoH. When we presented the [http://library.health.go.ug/jla/ results] to the MoH librarians, they were visibly excited.
+: Integrated Joomla and Knowledgetree to provide a [http://library.health.go.ug/jla/ complete KM solution] for the MoH.
         </p>
     </li>
 </ul>
@@ -264,11 +255,11 @@ projects, we were able to find and solve some very significant problems with [ht
     Team Gigabyte
 </p>
 <p>
-    Helped implement front-end enhancements using AJAX and PHP. Later, took on the management of the production, integration systems, the autobuild system, the
-    custom Ubuntu package repository for our internally produced packages, backups, and system monitoring via a combination of Cacti, Swatch and Nagios.
+    Implemented front-end enhancements using AJAX and PHP. Later, managed production; the integration systems; the autobuild system; the
+    custom Ubuntu package repository; backups; and system monitoring via a combination of Cacti, Swatch and Nagios.
 </p>
 <p>
-    When we switched our front-end to MediaWiki, I wrote custom handlers to produce fast geographical lookups using PHP. Migrated our custom package repository
+    Wrote custom handlers to produce fast geographical lookups using PHP for a Front End move to MediaWiki. Migrated our custom package repository
     to Amazon’s S3.
 </p>
 <p>
@@ -279,43 +270,34 @@ projects, we were able to find and solve some very significant problems with [ht
     Layover, Inc.
 </p>
 <p>
-    Managed servers and helped maintain current base of legacy code. Planned and began implementing a move from custom template system with a mix of custom CGI
-    code to Catalyst and Template Toolkit as part of a complete redesign of the site. My initial decision to use Catalyst on mod_perl has been implemented
-    site-wide.
+    Managed servers and maintained legacy code base. Planned and initiated a site-wide move from custom template system with a mix of custom CGI
+    code to Catalyst and Template Toolkit.
 </p>
 <p>
     <strong>
-        Tech
+        Primary SysAdmin 
         <br/>
     </strong>
     Clark for President, Inc.
 </p>
 <p>
-    During my time at the campaign, I was the primary system administrator and managed the Linux-based network at the Headquarters as well the Linux servers
-    co-located in Little Rock and New York City.
+    Managed the Linux-based network at the Headquarters as well the Linux servers co-located in Little Rock and New York City.
 </p>
 <p>
-    Implemented virus and spam scanning using open-source tools for all @clark04.com email addresses. This alone saved untold hours in staffers' time at little
-    cost to the campaign.
+    Implemented virus and spam scanning using open-source tools for all campaign email addresses to save staffer hours and campaign funds.
 </p>
 <p>
-    Saved the campaign $50,000 on a contract by benchmarking a vendor's field outreach tool which purpose was to aid grassroots volunteers in writing letters
-    and making calls to potential voters. My measurements showed that the tool became unusable with even a small number of users. The contract was canceled.
+    Saved the campaign $50,000 on a contract by bench-marking a vendor's field outreach tool: my measurements showed the tool became unusable with even a small number of users. The contract was cancelled.
 </p>
 <p>
     <strong>
-        System Administrator
+        SysAdmin
         <br/>
     </strong>
-    Universal Personnel (New Orleans, Louisiana)
+    J. Ray McDermott (New Orleans, Louisiana)
 </p>
 <p>
-    Responsible for maintaining: internal and external DNS resolution for McDermott at multiple sites; external SMTP gateway router; internal and external FTP
-    servers; HTTP Proxy; SOCKS proxy. Applying security upgrades for supported applications. Reviewing and implementing Auditor's security recommendations.
-    (This contract was previously owned by Volt Technical Services.)
-</p>
-<p>
-    Projects:
+    Responsible for maintenance of DNS resolution ; SMTP gateway router; FTP servers; HTTP Proxy; and SOCKS proxy. Applied security upgrades and implemented                                                                                                                  Auditor's security recommendations.
 </p>
 <ul>
     <li>
@@ -325,8 +307,7 @@ projects, we were able to find and solve some very significant problems with [ht
     </li>
     <li>
         <p>
-            Developed [http://mah.everybody.org/docs/bootable-cdrom-for-solaris bootable CDROM] to deploy UNIX systems locally or at remote
-            sites in a uniform fashion without using a JumpStart server.
+            Developed [http://mah.everybody.org/docs/bootable-cdrom-for-solaris bootable CDROM] to deploy UNIX systems without using a JumpStart server.
         </p>
     </li>
     <li>
@@ -337,7 +318,7 @@ projects, we were able to find and solve some very significant problems with [ht
 </ul>
 <p>
     <strong>
-        JCALS System Administrator
+        JCALS SysAdmin
         <br/>
     </strong>
     U.S. Air Force Reserve
@@ -346,7 +327,7 @@ projects, we were able to find and solve some very significant problems with [ht
     Maintained documentation storage system for Air Force Reserve base.
 </p>
 <p>
-    Also, performed miscellaneous System Administration duties including working with the FBI and Navy Security to track down a hacker.
+    Performed additional SysAdmin duties including working with the FBI and Navy Security to track down a hacker.
 </p>
 <p>
     Projects:
@@ -355,36 +336,34 @@ projects, we were able to find and solve some very significant problems with [ht
     <li>
         <p>
             <strong>Form 1003 submission</strong>
-            : Developed an automated system for Standard Mortgage that would take input from a web-page. The system used that information to submit a prepared
-            Form 1003 to Fannie Mae for a lending decision. The decision would then be given back to the user. Implemented entirely with Apache and Perl using
-            a custom Perl module.
+            : Developed an automated system for Standard Mortgage that would take input from a web-page to submit a prepared Form 1003 to Fannie Mae for a lending decision. The decision would then be given back to the user. Implemented entirely with Apache and Perl using a custom Perl module.
         </p>
     </li>
 </ul>
 <p>
     <strong>
-        System Administrator
+        SysAdmin
         <br/>
     </strong>
     Baily Link, Inc.
 </p>
 <p>
-    Registered domain names. Created and implemented policies for a separate development and production servers; Created and implemented policies for a version
+    Registered domain names. Created and implemented policies for a separate development and production servers, as well as for a version
     control system for internally developed software.
 </p>
 <p>
     <strong>
-        System Administrator
+        SysAdmin
         <br/>
     </strong>
     Department of Interior (Minerals Management Service)
 </p>
 <p>
-    Maintained the DNS; Developed an interim web-based solution for plotting and displaying over 200GB of well-logs. Implemented Cfengine to ease maintenance
-    of Solaris workstations. Installed and maintained the proxy servers for the Gulf and California locations.
+    Maintained the DNS; developed an interim web-based solution for plotting and displaying over 200GB of well-logs; implemented CFEngine to ease
+    Solaris workstation maintenance. Installed and maintained the proxy servers for the Gulf and California locations.
 </p>
 <p>
-    System Administrator for over 40 Sun Solaris workstations, three servers and several Microsoft Windows 95 Personal Computers. Also managed student workers.
+    Administrated over 40 Sun Solaris workstations; three servers; and several Microsoft Windows 95 Personal Computers. Also managed student workers.
 </p>
 <p>
     <strong>Education</strong>
