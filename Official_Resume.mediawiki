@@ -242,6 +242,9 @@ Achievements
 General Projects
 </h2>
 </p>
+<p>
+<strong>Regularly working with corporations in the Forbes Fortune 50.</strong>
+</p>
         <p>
             <strong>New Orleans Jazzfest spam filtering:</strong>
             Maintenance on New Orleans Jazzfest's anti-spam relay
