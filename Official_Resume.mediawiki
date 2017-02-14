@@ -111,9 +111,9 @@
    </p>
 
 <p>
-<h3>
+<h2>
     Wiki-related Projects
-</h3>
+</h2>
 </p>
 <ul>
     <li>
@@ -265,9 +265,9 @@ Achievements
 
 
 <p>
-<h3>
+<h2>
 General Projects
-</h3>
+</h2>
 </p>
 <li>
         <p>
