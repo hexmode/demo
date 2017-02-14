@@ -255,8 +255,7 @@ General Projects
 <ul>
     <li>
         <p>
-            [http://bit.ly/2XUkoC weblogger.el]
-            : Developed a weblogging client for Emacs that supports XML-RPC APIs
+            [http://bit.ly/2XUkoC weblogger.el]: Developed a weblogging client for Emacs that supports XML-RPC APIs
         </p>
     </li>
     <li>
