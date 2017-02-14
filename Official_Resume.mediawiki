@@ -250,19 +250,14 @@ Achievements
 General Projects
 </h2>
 </p>
-<li>
         <p>
             <strong>New Orleans Jazzfest spam filtering:</strong>
             Maintenance on New Orleans Jazzfest's anti-spam relay
-        </p>
-    </li>
-<ul>
-    <li>
+        </p>  
         <p>
-            <strong>XML Namespace handling for Emacs</strong>
-            : Provided initial implementation for XML namespaces in Emacs
+            <strong>XML Namespace handling for Emacs</strong> : Provided initial implementation for XML namespaces in Emacs
         </p>
-    </li>
+<ul>
     <li>
         <p>
             [http://bit.ly/2XUkoC weblogger.el]
@@ -353,14 +348,10 @@ General Projects
 <p>
     Performed additional SysAdmin duties including working with the FBI and Navy Security to track down a hacker.
 </p>
-<ul>
-    <li>
         <p>
             <strong>Form 1003 submission</strong>
             : Developed an automated system for Standard Mortgage that would take input from a web-page to submit a prepared Form 1003 to Fannie Mae for a lending decision. The decision would then be given back to the user. Implemented entirely with Apache and Perl using a custom Perl module.
         </p>
-    </li>
-</ul>
 <p>
     <strong>
         SysAdmin
