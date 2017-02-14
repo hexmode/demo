@@ -12,6 +12,22 @@
     <br/>
     URL: [https://hexmode.com/ hexmode.com]
 </p>
+
+<br>
+<p>
+    <h1>Education</h1>
+</p>
+<ul>
+    <li>
+        <p>
+            Bachelor of Science in Computer Science
+            <br/>
+            University of New Orleans, New Orleans, Louisiana
+        </p>
+    </li>
+</ul>
+
+
 <br/>
 <h1>
     Technical Skills
@@ -92,22 +108,7 @@
         <br/>
         <br/>
 </h1>
-Nichework LLC
    </p>
-    Nichework LLC is the business entity that I have used for any contracts or projects since 1999.
-<br/>
-<p>
-    <strong>Education</strong>
-</p>
-<ul>
-    <li>
-        <p>
-            BS in Computer Science
-            <br/>
-            University of New Orleans
-        </p>
-    </li>
-</ul>
 
 <p>
 <h3>
