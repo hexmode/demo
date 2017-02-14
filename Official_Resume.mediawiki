@@ -83,6 +83,9 @@
     <em>Web Services</em>
     : XML-RPC, REST, JSON-RPC (BloggerAPI, MetaWeblogAPI, Bugzilla, MediaWiki clients).
 </p>
+
+
+
 <p>
 <h1>
         Developer/Consultant  Employment History
@@ -94,8 +97,21 @@ Nichework LLC
     Nichework LLC is the business entity that I have used for any contracts or projects since 1999.
 <br/>
 <p>
+    <strong>Education</strong>
+</p>
+<ul>
+    <li>
+        <p>
+            BS in Computer Science
+            <br/>
+            University of New Orleans
+        </p>
+    </li>
+</ul>
+
+<p>
 <h3>
-    Projects
+    Wiki-related Projects
 </h3>
 </p>
 <ul>
@@ -128,12 +144,6 @@ Nichework LLC
 Consulting with WikiHow as they upgrade their MediaWiki installation ([http://www.wikihow.com/Special:Version with extensive customizations]) to the latest version of MediaWiki.
         </p>
     </li>
-    <li>
-        <p>
-            <strong>New Orleans Jazzfest spam filtering:</strong>
-            Maintenance on New Orleans Jazzfest's anti-spam relay
-        </p>
-    </li>
 </ul>
 <ul>
     <li>
@@ -155,17 +165,6 @@ Consulting with WikiHow as they upgrade their MediaWiki installation ([http://ww
         </p>
     </li>
 </ul>
-<p>
-    <strong>
-        PHP Developer
-        <br/>
-        Comcast
-    </strong>
-</p>
-<p>
-    Worked with the XPlat group to develop a tool written in the [http://symfony.com/ Symfony framework] that will ease
-    troubleshooting for Tier 2+ helpdesk
-</p>
 <p>
     <strong>
         Contract Developer/Bugmeister
@@ -242,7 +241,7 @@ Achievements
     </li>
     <li>
         <p>
-            <strong>Knowledge Management for Uganda Ministry of Health (MoH)</strong>
+            Knowledge Management for Uganda Ministry of Health (MoH)
 : Integrated Joomla and Knowledgetree to provide a [http://library.health.go.ug/jla/ complete KM solution] for the MoH.
         </p>
     </li>
@@ -250,7 +249,6 @@ Achievements
 <p>
     <strong>
         SysAdmin/Web Developer
-        <br/>
     </strong>
     Team Gigabyte
 </p>
@@ -261,6 +259,31 @@ Achievements
 <p>
     Wrote custom handlers to produce fast geographical lookups using PHP for a Front End move to MediaWiki. Migrated our custom package repository
     to Amazon’s S3.
+</p>
+
+
+
+<p>
+<h3>
+General Projects
+</h3>
+</p>
+<li>
+        <p>
+            <strong>New Orleans Jazzfest spam filtering:</strong>
+            Maintenance on New Orleans Jazzfest's anti-spam relay
+        </p>
+    </li>
+<p>
+    <strong>
+        PHP Developer
+        <br/>
+</strong>
+        Comcast
+</p>
+<p>
+    Worked with the XPlat group to develop a tool written in the [http://symfony.com/ Symfony framework] that will ease
+    troubleshooting for Tier 2+ helpdesk
 </p>
 <p>
     <strong>
@@ -321,16 +344,12 @@ Achievements
         JCALS SysAdmin
         <br/>
     </strong>
-    U.S. Air Force Reserve
 </p>
 <p>
     Maintained documentation storage system for Air Force Reserve base.
 </p>
 <p>
     Performed additional SysAdmin duties including working with the FBI and Navy Security to track down a hacker.
-</p>
-<p>
-    Projects:
 </p>
 <ul>
     <li>
@@ -363,17 +382,10 @@ Achievements
     Solaris workstation maintenance. Installed and maintained the proxy servers for the Gulf and California locations.
 </p>
 <p>
-    Administrated over 40 Sun Solaris workstations; three servers; and several Microsoft Windows 95 Personal Computers. Also managed student workers.
+    <strong>Computer Operations Supervisor</strong>
+    <br/>
+    Tulane University (EECS Department)
 </p>
 <p>
-    <strong>Education</strong>
+    Administrated over 40 Sun Solaris workstations; three servers; and several Microsoft Windows 95 Personal Computers. Also managed student workers.
 </p>
-<ul>
-    <li>
-        <p>
-            BS in Computer Science
-            <br/>
-            University of New Orleans
-        </p>
-    </li>
-</ul>
