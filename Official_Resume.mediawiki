@@ -32,14 +32,12 @@
 <h1>
     Technical Skills
 </h1>
-<strong>
-    Front End
+<strong>Front End
 </strong>
 <p>
     HTML5, jQuery, AJAX, JavaScript, XHTML.
 </p>
-<strong>
-    PHP
+<strong>PHP
 </strong>
 <p>
     PHP5, APC, XDebug, PHPUnit, Command Line PHP.
@@ -47,8 +45,7 @@
     <em>Various PHP Frameworks</em>
     : MediaWiki, Symfony, Drupal
 </p>
-<strong>
-    Perl
+<strong>Perl
 </strong>
 <p>
     <em>CPAN Author</em>
@@ -57,8 +54,7 @@
     <em>Knowledge</em>
     : mod_perl/Apache, DBI, POE.
 </p>
-<strong>
-    Open Source Contributor
+<strong>Open Source Contributor
 </strong>
 <p>
     <em>Linux Distributions</em>
@@ -70,8 +66,7 @@
     <em>MediaWiki</em>
     : Contributing to MediaWiki, managing public releases and planning long-term maintenance for MW 1.19.
 </p>
-<strong>
-    Mail Administration
+<strong>Mail Administration
 </strong>
 <p>
     <em>Mail and Calendar Suite</em>
@@ -86,8 +81,7 @@
     <em>Virus Scanning</em>
     : ClamAV.
 </p>
-<strong>
-    Protocols
+<strong>Protocols
 </strong>
 <p>
     <em>LDAP</em>
