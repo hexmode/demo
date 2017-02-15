@@ -15,18 +15,13 @@
 
 <br>
 <p>
-    <h1>Education</h1>
+<h1>Education</h1>
 </p>
-<ul>
-    <li>
         <p>
             Bachelor of Science in Computer Science
             <br/>
             University of New Orleans, New Orleans, Louisiana
         </p>
-    </li>
-</ul>
-
 
 <br/>
 <h1>
