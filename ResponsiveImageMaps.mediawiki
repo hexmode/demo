@@ -1,15 +1,15 @@
-This page is an example of responsive image maps using the content of [[w:Russian_Orbital_Segment|Russian_Orbital_Segment]]
+This page is an example of responsive image maps using the content of [[wikipedia:Russian_Orbital_Segment|Russian Orbital Segment]]
 
 <div style="width: 50%;float: right">
 <imagemap responsive>
 Image: Russian Orbital Segment.png
 
-rect 129 295 608 538  [[Zvezda]]
-rect 622 462 718 771  [[PIRS]]
-rect 705 346 1000 463 [[Zarya]]
-rect 945 465 1075 825 [[MRM1]]
+rect 129 295 608 538  [[wikipedia:Zvezda|Left]]
+rect 622 462 718 771  [[wikipedia:PIRS|Down]]
+rect 705 346 1000 463 [[wikipedia:Zarya|Right]]
+rect 945 465 1075 825 [[wikipedia:MRM1|Right Down]]
 </imagemap>
-</div>The '''Russian Orbital Segment''' ('''ROS''') is the name given to the components of the [[w:International Space Station]] (ISS) constructed in [[w:Russia]] and operated by the [[w:Russian Federal Space Agency]] (Roskosmos). The ROS handles Guidance, Navigation & Control for the entire Station.
+</div>The '''Russian Orbital Segment''' ('''ROS''') is the name given to the components of the [[wikipedia:International Space Station]] (ISS) constructed in [[wikipedia:Russia]] and operated by the [[wikipedia:Russian Federal Space Agency|Russian Federal Space Agency]] (Roskosmos). The ROS handles Guidance, Navigation & Control for the entire Station.
 
 ==Current composition==
-The segment currently consists of five modules, which together essentially comprise the base configuration of the cancelled Russian space station [[w:Mir-2|''Mir''-2]]. The segment is controlled directly from Roskosmos's [[w:RKA Mission Control Center|Mission Control Center]] in [[w:Moscow]].
+The segment currently consists of five modules, which together essentially comprise the base configuration of the canceled Russian space station [[wikipedia:Mir-2|''Mir''-2]]. The segment is controlled directly from Roskosmos's [[wikipedia:RKA Mission Control Center|Mission Control Center]] in [[wikipedia:Moscow|Moscow]].
