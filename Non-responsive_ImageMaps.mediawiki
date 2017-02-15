@@ -1,6 +1,6 @@
-This page is an example of responsive image maps using the content of [[wikipedia:Russian_Orbital_Segment|Russian Orbital Segment]]
+This page is an example of non-responsive image maps using the content of [[wikipedia:Russian_Orbital_Segment|Russian Orbital Segment]]
 
-The page without responsiveness is here: "[[Non-responsive ImageMaps]]".
+The page with responsiveness is here: "[[Responsive ImageMaps]]".
 
 <imagemap>
 Image: Russian Orbital Segment.png|right|320px
