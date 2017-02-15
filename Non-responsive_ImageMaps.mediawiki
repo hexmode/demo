@@ -7,7 +7,7 @@ The page with responsiveness is here: "[[Responsive ImageMaps]]".
 
 
 <imagemap>
-Image: Russian Orbital Segment.png|right|320px
+Image: Russian Orbital Segment.png|right|480px
 
 rect 129 295 608 538  [[wikipedia:Zvezda|Left]]
 rect 622 462 718 771  [[wikipedia:PIRS|Down]]
