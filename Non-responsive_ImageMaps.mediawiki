@@ -3,7 +3,7 @@ This page is an example of responsive image maps using the content of [[wikipedi
 The page without responsiveness is here: "[[Non-responsive ImageMaps]]".
 
 <imagemap>
-Image: Russian Orbital Segment.png|right|320
+Image: Russian Orbital Segment.png|right|320px
 
 rect 129 295 608 538  [[wikipedia:Zvezda|Left]]
 rect 622 462 718 771  [[wikipedia:PIRS|Down]]
