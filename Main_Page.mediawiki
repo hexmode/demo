@@ -4,4 +4,4 @@
 
 ===[https://web.nichework.com/wiki/MediaWiki_Projects_and_Development Media Wiki Projects and Development]===
 
-[TestSMW]
+[[TestSMW]]
