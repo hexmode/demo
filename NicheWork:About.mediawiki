@@ -18,5 +18,3 @@ He can be reached via his business email at mah@nichework.com. The most recent c
 <br>
 <br>
 [[MediaWiki Projects and Development]] | [[Official Resume]]
-
-[[TestSMW]]
