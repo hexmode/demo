@@ -17,4 +17,4 @@ His technical specialities include: MediaWiki, PHP, VOIP, Asterisk, AJAX, MySQL,
 He can be reached via his business email at mah@nichework.com. The most recent copy of his resume can be found below. His personal blog is [https://hexmode.com/ hexmode.com]
 <br>
 <br>
-[[MediaWiki Projects and Development]] | [[Official Resume]] [[TestSMW]]
+[[MediaWiki Projects and Development]] | [[Official Resume]]
