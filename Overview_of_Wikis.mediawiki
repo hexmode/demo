@@ -2,20 +2,22 @@
 
 
 
-
 <p>
-The creation of the first wiki is credited to Ward Cunningham in 1995. He created the "WikiWikiWeb," and ran it off of his website with software of the same name. Later on the term also referred to user-editable websites and applications used to run such websites, no matter who had created them
+The creation of the first wiki is credited to Ward Cunningham in 1995. He created the "WikiWikiWeb," and ran it off of his website with software of the same name. Later on the term also referred to user-editable websites and applications used to run such websites, no matter who had created them.
 </p>
 
 
+
 <p>
-In 2000, Jimmy Wales dreamt up Nupedia, edited by Larry Sanger who eventually pushed Wales to call it "Wikipedia". Sanger later left due to philosophical conflicts, and became one of the biggest critics of Wikipedia.
+In 2000, Jimmy Wales began work on Nupedia, which was edited by Larry Sanger. Wales to call it "Wikipedia". Sanger later left due to philosophical conflicts, and became one of the biggest critics of Wikipedia.
 </p>
+
 
 
 <p>
 Towards the end of 2001, Magnus Manske was hired to rewrite the Wikipedia software into PHP. His first two versions are called "phase I," and "phase II." In 2002, Lee Daniel Crocker developed "phase III," which is now known as MediaWiki, though it has gone through numerous updates and large scale rewrites. As of 2004, all Wikimedia sites use MediaWiki, in addition to many independent wikis and wiki-related sites.
 </p>
+
 
 
 <p>
@@ -25,5 +27,5 @@ Brion Vibber and Tim Starling have also both played large and notable roles in t
 
 
 <p>
-Information mainly sourced from the 2nd edition of Yaron Koren's [http://www.workingwithmediawiki.com/ ''Working With MediaWiki''], and the Wikipedia page for [https://en.wikipedia.org/wiki/MediaWiki MediaWiki itself].
+Information sourced from the 2nd edition of Yaron Koren's [http://www.workingwithmediawiki.com/ ''Working With MediaWiki''], and the Wikipedia page for [https://en.wikipedia.org/wiki/MediaWiki MediaWiki itself].
 </p>
