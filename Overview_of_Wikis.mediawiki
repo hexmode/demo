@@ -8,6 +8,8 @@ In 2000, Jimmy Wales dreamt up Nupedia, edited by Larry Sanger who eventually pu
 <p>
 Towards the end of 2001, Magnus Manske was hired to rewrite the Wikipedia software into PHP. His first two versions are called "phase I," and "phase II." In 2002, Lee Daniel Crocker developed "phase III," which is now known as MediaWiki, though it has gone through numerous updates and large scale rewrites. As of 2004, all Wikimedia sites use MediaWiki, in addition to many independent wikis and wiki-related sites.
 </p>
+<p>
+Brion Vibber and Tim Starling have also both played large and notable roles in the continued existence of MediaWiki over the years and both hold prominent titles in the WikiMedia Foundation. Vibber is currently the Lead Software Architect, and Starling is the Lead Platform Architect.
 
 
-Information mainly sourced from the 2nd edition of Yaron Koren's [http://www.workingwithmediawiki.com/ ''Working With MediaWiki''].
+Information mainly sourced from the 2nd edition of Yaron Koren's [http://www.workingwithmediawiki.com/ ''Working With MediaWiki''], and the Wikipedia page for [https://en.wikipedia.org/wiki/MediaWiki MediaWiki itself].
