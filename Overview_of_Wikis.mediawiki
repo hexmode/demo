@@ -1,5 +1,4 @@
 ==Overview of wikis and MediaWiki==
-<b>
 <p>
 The creation of the first wiki is credited to Ward Cunningham in 1995. He created the "WikiWikiWeb," and ran it off of his website with software of the same name. Later on the term also referred to user-editable websites and applications used to run such websites, no matter who had created them
 </p>
@@ -8,4 +7,4 @@ In 2000, Jimmy Wales dreamt up Nupedia, edited by Larry Sanger who eventually pu
 </p>
 
 
-Information mainly sourced from the 2nd edition of Yaron Koren's [http://www.workingwithmediawiki.com/ Working With MediaWiki].
+Information mainly sourced from the 2nd edition of Yaron Koren's [http://www.workingwithmediawiki.com/ ''Working With MediaWiki''].
