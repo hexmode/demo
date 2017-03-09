@@ -1,27 +1,21 @@
-<h1>
-    Contact Information
-</h1>
-<p>
-    739 Main St.
-    <br/>
-    Akron, PA 17501
-    <br/>
-    Phone: 717-271-1084
-    <br/>
-    Email: mah@nichework.com
-    <br/>
-    URL: [https://hexmode.com/ hexmode.com]
-</p>
+==  Contact Information ==
+
+739 Main St.
+<br/>
+Akron, PA 17501
+<br/>
+Phone: 717-271-1084
+<br/>
+Email: mah@nichework.com
+<br/>
+URL: [https://hexmode.com/ hexmode.com]
 
 <br>
-<p>
-<h1>Education</h1>
+==Education ==
 </p>
-        <p>
-            Bachelor of Science in Computer Science
-            <br/>
-            University of New Orleans, New Orleans, Louisiana
-        </p>
+Bachelor of Science in Computer Science
+<br/>
+University of New Orleans, New Orleans, Louisiana
 
 <br/>
 <h1>
@@ -105,33 +99,22 @@
 </h2>
 </p>
 
-    
-        <p align="LEFT">
-            <strong>MediaWiki Release Management:</strong>
-          [https://blog.wikimedia.org/2013/07/26/future-third-party-releases-mediawiki/ Formed a partnership with 'Hallo Welt' to manage MediaWiki releases on a contract basis]
-            for Wikimedia.
-        </p>
-    
-    <p>
-        
-            <strong>Upgrading Sherwin Willliams internal MediaWiki:</strong>
-            Upgraded and customized their MediaWiki system
-            <br/>
-            Implemented a way to [https://bugzilla.wikimedia.org/38110 separate MySQL schema changes] from the regular
-            upgrade process for MediaWiki so that they could be handled by Sherwin Williams' DBA. This code is now in MediaWiki (link needed)
-    
-</p>
-    
-        <p>
-            <strong>WikiPathways customizations for Gladstone Institute: </strong>
-           Extended their highly customized implementation at [http://WikiPathways.org/ WikiPathways.org], while bringing them
-            more in line with MediaWiki best practices
-        </p>
-        <p>
-            <strong>WikiHow upgrade:</strong>
+<strong>MediaWiki Release Management:</strong>
+[https://blog.wikimedia.org/2013/07/26/future-third-party-releases-mediawiki/ Formed a partnership with 'Hallo Welt' to manage MediaWiki releases on a contract basis] for Wikimedia.
+
+<strong>Upgrading Sherwin Willliams internal MediaWiki:</strong>
+Upgraded and customized their MediaWiki system
+<br/>
+Implemented a way to [https://bugzilla.wikimedia.org/38110 separate MySQL schema changes] from the regular
+upgrade process for MediaWiki so that they could be handled by Sherwin Williams' DBA. This code is now in MediaWiki (link needed)
+
+<strong>WikiPathways customizations for Gladstone Institute: </strong>
+Extended their highly customized implementation at [http://WikiPathways.org/ WikiPathways.org], while bringing them more in line with MediaWiki best practices
+
+<strong>WikiHow upgrade:</strong>
 Consulting with WikiHow as they upgrade their MediaWiki installation ([http://www.wikihow.com/Special:Version with extensive customizations]) to the latest version of MediaWiki.
         </p>
-    
+
 <p>
     <strong>
         Contract Developer/Bugmeister
@@ -230,13 +213,13 @@ General Projects
 <p>
 <strong>Regularly working with corporations in the Forbes Fortune 50.</strong>
 </p>
-        <p>
-            <strong>New Orleans Jazzfest spam filtering:</strong>
-            Maintenance on New Orleans Jazzfest's anti-spam relay
-        </p>  
-        <p>
-            <strong>XML Namespace handling for Emacs</strong> : Provided initial implementation for XML namespaces in Emacs
-        </p>
+<p>
+    <strong>New Orleans Jazzfest spam filtering:</strong>
+    Maintenance on New Orleans Jazzfest's anti-spam relay
+</p>
+<p>
+    <strong>XML Namespace handling for Emacs</strong> : Provided initial implementation for XML namespaces in Emacs
+</p>
 <ul>
     <li>
         <p>
@@ -273,7 +256,7 @@ General Projects
 </p>
 <p>
     <strong>
-        Primary SysAdmin 
+        Primary SysAdmin
         <br/>
     </strong>
     Clark for President, Inc.
@@ -326,9 +309,9 @@ General Projects
 <p>
     Performed additional SysAdmin duties including working with the FBI and Navy Security to track down a hacker.
 </p>
-        <p>
-            <strong>Form 1003 submission</strong>: Developed an automated system for Standard Mortgage that would take input from a web-page to submit a prepared Form 1003 to Fannie Mae for a lending decision. The decision would then be given back to the user. Implemented entirely with Apache and Perl using a custom Perl module.
-        </p>
+<p>
+<strong>Form 1003 submission</strong>: Developed an automated system for Standard Mortgage that would take input from a web-page to submit a prepared Form 1003 to Fannie Mae for a lending decision. The decision would then be given back to the user. Implemented entirely with Apache and Perl using a custom Perl module.
+</p>
 <p>
     <strong>
         SysAdmin
